@@ -60,5 +60,11 @@ The pipeline follows the **Medallion Architecture**:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/shivanigupta1209/DatabricksProject.git
+
+## 📽️ Presentation
+
+You can view the project presentation here:  
+[![View Presentation](https://img.shields.io/badge/Canva-Presentation-blue?logo=canva)](https://www.canva.com/design/DAGzBsWIOKw/HlXKts4J6b1JrWmAHUQ7iw/edit?utm_content=DAGzBsWIOKw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
